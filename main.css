@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{box-sizing: border-box;}
+
+body{background-image: url("images/Ruben9439.jpg");
+background-repeat:no-repeat;
+	background-size: cover;}	
+#container{
+	width:1000px;
+	height:600px;
+	background-color:rgba(135,45,195,0.61);
+	margin:0 auto;
+}
